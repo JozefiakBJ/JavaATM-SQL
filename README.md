@@ -11,7 +11,7 @@
 <h3 align="center">JavaATM-SQL</h3>
 
   <p align="center">
-    Hi it's JavaSE based atm simulator 
+    Hi it's JavaSE based atm simulator.
   </p>
   
 </div>
@@ -47,20 +47,20 @@
 
 This project aims to show a little bit dose of my skils of programming, knowledge about JAVA, SQL, OOP, Clean Code and architecture patterns.
 
-To run needs only JAVA and mySQL
+To run needs only JAVA and mySQL.
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo.
    ```sh
    git clone https://github.com/jozefiakBJ/JavaATM-SQL.git
    ```
    
-2. Run mySQL and run atm.sql from repo
+2. Run mySQL and run atm.sql from repo.
 
-3. Set up your connection to DB in DBConnector class
+3. Set up your connection to DB in DBConnector class.
 
-4. Run project in IntelliJ or other IDE and happily enjoy your own ATM 
+4. Run project in IntelliJ or other IDE and happily enjoy your own ATM.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -70,7 +70,7 @@ To run needs only JAVA and mySQL
 ## Usage
 
 - LOG IN <br> Without log in by passing credit card number and your PIN you can't have access to deposit or withdraw your money.<br>
-- REGISTER <br> You can create an new account. <br>
+- REGISTER <br> You can create an new account.<br>
 - DEPOSIT and WITHDRAW <br> You can deposit and withdraw money in USD, EUR and PLN.<br>
 - INFO <br>You can receive information about your account like your personal info and your deposit.<br>
     
@@ -80,7 +80,7 @@ To run needs only JAVA and mySQL
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License
+Distributed under the MIT License.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
