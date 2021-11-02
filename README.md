@@ -71,7 +71,7 @@ To run needs only JAVA and mySQL
 
 - LOG IN <br> Without log in by passing credit card number and your PIN you can't have access to deposit or withdraw your money.<br>
 - REGISTER <br> You can create an new account. <br>
-- DEPOSIT and WITHDRAW <br> You can deposit and withdraw money in USD, EUR and PLN .<br>
+- DEPOSIT and WITHDRAW <br> You can deposit and withdraw money in USD, EUR and PLN.<br>
 - INFO <br>You can receive information about your account like your personal info and your deposit.<br>
     
 
