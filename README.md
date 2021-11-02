@@ -45,7 +45,7 @@
 
 This project aims to show a little bit dose of my skils of programming, knowledge about JAVA, SQL, OOP, Clean Code and architecture patterns.
 
-To run needs only JAVA and mySQL 
+To run needs only JAVA and mySQL
 
 ### Installation
 
@@ -53,9 +53,12 @@ To run needs only JAVA and mySQL
    ```sh
    git clone https://github.com/jozefiakBJ/JavaATM-SQL.git
    ```
+   
 2. Run mySQL and run atm.sql from repo
 
-3. Run project in IntelliJ or other IDE and happily enjoy your own ATM 
+3. Set up your connection to DB in DBConnector class
+
+4. Run project in IntelliJ or other IDE and happily enjoy your own ATM 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
